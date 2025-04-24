@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Totally Not Suspicious Page</title>
+  <meta http-equiv="refresh" content="5;url=https://www.deathclock.com/">
+  <style>
+    body {
+      background-color: black;
+      color: lime;
+      font-family: monospace;
+      text-align: center;
+      padding-top: 20%;
+    }
+  </style>
+</head>
+<body>
+  <h1>Initializing...</h1>
+  <p>Calculating your lifespan...</p>
+</body>
+</html>
